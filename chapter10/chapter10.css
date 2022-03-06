@@ -18,9 +18,9 @@ main {
 
 .step {
   background-color: #eeeeee;
-  width: 300px;
+  width: 30%;
   position: relative;
-  margin-right: 30px;
+  margin-right: 1%;
   padding: 10px;
 }
 
