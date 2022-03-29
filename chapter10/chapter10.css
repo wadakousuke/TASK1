@@ -6,7 +6,7 @@
 
 header {
   height: 50px;
-  background-color: #ff9a4b;
+  background-color: blue;
 }
 
 main {
@@ -28,7 +28,7 @@ main {
   margin-right: 0px;
 }
 .step-number {
-  background-color: #ff9a4b;
+  background-color: blue;
   color: #fff;
   display: inline-block;
   position: absolute;
